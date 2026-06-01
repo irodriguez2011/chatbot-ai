@@ -1,5 +1,7 @@
 # chatbot-ai
 
+> **Status: Work in Progress** — This project is actively being developed. Features and structure may change.
+
 A lightweight Python chatbot powered by the OpenAI API. Supports both one-shot prompts and interactive terminal conversations.
 
 ## Features
